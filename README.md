@@ -4,12 +4,10 @@
   <h3>Rust & Python Developer · Practical Tools · Enjoy the Craft</h3>
 
   <p>
-    <a href="https://github.com/RowanCole">
-      <img src="https://img.shields.io/badge/GitHub-RowanCole-181717?style=flat&logo=github" alt="GitHub">
-    </a>
     <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat&logo=tauri&logoColor=black" alt="Tauri">
+    <img src="https://img.shields.io/badge/Vue-42B883?style=flat&logo=vuedotjs&logoColor=white" alt="Vue">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu">
   </p>
 </div>
 
@@ -17,6 +15,7 @@
 
 - 🎓 Undergraduate student at **Guizhou University**
 - 🦀 Main languages: **Rust** and **Python**
+- 🌿 Frontend framework: **Vue**
 - 🔧 Building practical tools that are simple, useful, and reliable
 - 🌏 Interested in Chinese-localized and beginner-friendly software
 - ⚡ **Vibe coding is a tool for efficiency**
@@ -26,33 +25,16 @@
 
 ### 🎮 [ease-mc](https://github.com/RowanCole/ease-mc)
 
-A zero-setup Minecraft launcher for beginners and Chinese networks.
-
-Built with:
-
-- Tauri 2
-- Rust
-- React
-- TypeScript
-- DeepSeek AI
+A zero-setup Minecraft launcher for beginners and Chinese networks, with a Rust-powered desktop core and a built-in AI assistant.
 
 ### 🔌 [portctl](https://github.com/RowanCole/portctl)
 
-A cross-platform CLI for inspecting and managing port usage.
-
-Features include:
-
-- Finding processes occupying a port
-- Killing port-occupying processes
-- IPv4 and IPv6 support
-- TCP and UDP filtering
-- Wildcard matching
-- Chinese and English output
+A cross-platform CLI for inspecting and managing port usage, with IPv6, TCP/UDP filtering, wildcard matching, and bilingual output.
 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,tauri,react,typescript,git" alt="Tech Stack">
+  <img src="https://skillicons.dev/icons?i=rust,python,vue,tauri,typescript,ubuntu,git" alt="Tech Stack">
 </div>
 
 ## 🧠 My Coding Philosophy
